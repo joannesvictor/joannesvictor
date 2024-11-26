@@ -11,7 +11,6 @@ I'm a data analyst specialized in People Analytics. I am currently studying Anal
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/REST%20API-0096D6?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
 </p>
 
 ---
