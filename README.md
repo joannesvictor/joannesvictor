@@ -1,1 +1,1 @@
-I'm a data analyst specialized in People Analytics. I am currently specializing in Database Engineering and Administration.
+Привет, my mame is João and I am a Data Engineer, currently specializing in Database Engineering and Administration.
